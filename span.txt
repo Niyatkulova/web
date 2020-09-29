@@ -1,0 +1,19 @@
+<html>
+ <head>
+  <title>Использование тега принудительного переноса строки <BR></title>
+  <style>
+    body { 
+     font-family: Arial, sans-serif; 
+    }
+  </style> 
+ </head>
+ <body>
+
+  <p><span class=</span>Белеет парус одинокий<BR>
+В тумане неба голубом.<BR><HR></p> 
+ 
+  <p>Что ищет он в стране далекой?<BR><HR>
+Что кинул он в краю родном?</p>
+ 
+ </body>
+</html>

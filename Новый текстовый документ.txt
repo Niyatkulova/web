@@ -1,0 +1,31 @@
+<HTML>
+	<HEAD>
+		<TITLE>Расшифровка аббревиатур с помощью тега ACRONYM</TITLE>
+ <style type="text/css">
+.block1 { 
+    width: 200px; 
+    background: #ccc;
+    padding: 5px;
+    padding-right: 20px; 
+    border: solid 1px black; 
+    float: left;
+   }
+   .block2 { 
+    width: 200px; 
+    background: #fc0; 
+    padding: 5px; 
+    border: solid 1px black; 
+    float: left; 
+    position: relative; 
+    top: 40px; 
+    left: -70px; 
+   }
+  </style>
+</HEAD> 
+
+ <body>
+<div class="block1">Простой перевод строки в данном случае не поможет: браузер, интерпретируя код,</div>
+<div class="block2">Не воспримет отступ как команду создания абзаца и при выводе содержания на экран монитора объединит фрагменты текста в месте.</div>
+
+</BODY>
+</HTML>
